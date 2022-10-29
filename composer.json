@@ -13,6 +13,12 @@
     "homepage": "https://github.com/spatie/laravel-translatable",
     "license": "MIT",
     "authors": [
+         {
+            "name": "Etta Egbe Joseph",
+            "email": "ettaegbe40@gmail.com",
+            "homepage": "https://icemix.net",
+            "role": "Developer"
+        },
         {
             "name": "Freek Van der Herten",
             "email": "freek@spatie.be",
@@ -28,7 +34,7 @@
     ],
     "require": {
         "php": "^8.0",
-        "illuminate/database": "^9.0",
+        "illuminate/database": "^v9.0.0-beta.1",
         "illuminate/support": "^9.0",
         "spatie/laravel-package-tools": "^1.11"
     },
